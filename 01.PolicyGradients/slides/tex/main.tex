@@ -1,0 +1,61 @@
+\documentclass[11pt]{beamer}
+
+%%%%%%%% tema e cor %%%%%%%%
+\mode<presentation> {
+\usetheme{Madrid}
+%\usecolortheme{albatross}
+}
+\usepackage{amsmath}
+\usepackage{hyperref}
+
+\input{config.tex}
+
+%%%%%%%% titulo e subtitulo %%%%%%%%
+\title[Policy Gradient Methods]{Policy Gradient Methods in Reinforcement Learning} 
+
+%%%%%%%% nome dos autores %%%%%%%%
+\author[Kabir Ahuja]{
+Kabir Ahuja} 
+
+\begin{document}
+\input{files/pre-slides.tex}
+
+%%%%%%%% slides %%%%%%%%
+\section{Introduction} 
+\input{files/intro.tex}
+
+\section{Policy Based RL}
+\input{files/policygrad.tex}
+
+\section{Non Differentiable Computation in Neural Nets}
+\input{files/nondiff.tex}
+
+\section{Limitations of Policy Gradients}
+\input{files/limits.tex}
+
+%%%%%%%% agradecimentos %%%%%%%%
+
+%------------------------------------------------
+
+
+%------------------------------------------------
+%------------------------------------------------
+%%%%%%%% referencias %%%%%%%%
+\nocite{*}
+\begin{frame}{References}
+\begin{enumerate}
+    \item John Schulman's slides on Policy Gradients: \href{http://rail.eecs.berkeley.edu/deeprlcoursesp17/docs/lec2.pdf}{http://rail.eecs.berkeley.edu/deeprlcoursesp17/docs/lec2.pdf}
+    \item David Silver's slides on Policy Gradients: \href{http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/pg.pdf}{http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching\_files/pg.pdf}
+    \item Andrej Karpathy's Blog on Policy Gradients: \href{https://karpathy.github.io/2016/05/31/rl/}{https://karpathy.github.io/2016/05/31/rl/}
+    \item Lijun Wu, Fei Tian, Tao Qin, Jianhuang Lai, Tie-Yan Liu: "A Study of Reinforcement Learning for Neural Machine Translation" (2018)
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{}
+\begin{center}
+\Huge Thank you!
+\end{center}
+\end{frame}
+
+
+\end{document}
