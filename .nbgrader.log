@@ -1,0 +1,171 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/kabir/RLTutorials
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=141f08381d526749a69a7aa2339cec41b6b4d77dbf5d01ed
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=141f08381d526749a69a7aa2339cec41b6b4d77dbf5d01ed&token=141f08381d526749a69a7aa2339cec41b6b4d77dbf5d01ed
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | INFO] Kernel started: d2f5195f-fb5b-4b83-aec0-ed54808592f0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d2f5195f-fb5b-4b83-aec0-ed54808592f0
+[NotebookApp | INFO] Saving file at /01.PolicyGradients/code/REINFORCE.ipynb
+[NotebookApp | INFO] Saving file at /01.PolicyGradients/code/REINFORCE.ipynb
+[NotebookApp | INFO] Starting buffering for d2f5195f-fb5b-4b83-aec0-ed54808592f0:88c70de612104d42a4891e976210cda6
+[NotebookApp | INFO] Kernel restarted: d2f5195f-fb5b-4b83-aec0-ed54808592f0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d2f5195f-fb5b-4b83-aec0-ed54808592f0
+[NotebookApp | INFO] Restoring connection for d2f5195f-fb5b-4b83-aec0-ed54808592f0:88c70de612104d42a4891e976210cda6
+[NotebookApp | INFO] Replaying 10 buffered messages
+[NotebookApp | INFO] Saving file at /01.PolicyGradients/code/REINFORCE.ipynb
+[NotebookApp | INFO] Saving file at /01.PolicyGradients/code/REINFORCE.ipynb
+[NotebookApp | INFO] Saving file at /01.PolicyGradients/code/REINFORCE.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/kabir/RLTutorials
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=fc0f56fbd2e06bd028e1df9b4c7c936031498813370bda97
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=fc0f56fbd2e06bd028e1df9b4c7c936031498813370bda97&token=fc0f56fbd2e06bd028e1df9b4c7c936031498813370bda97
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | INFO] Creating new directory in 
+[NotebookApp | INFO] Creating new notebook in /02.ActorCritic
+[NotebookApp | INFO] Kernel started: c045ec87-fe97-49b3-a8cc-89a25bdfb89e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c045ec87-fe97-49b3-a8cc-89a25bdfb89e
+[NotebookApp | INFO] Kernel started: d81dfdfc-1269-4b89-a97a-ff6728a2d458
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d81dfdfc-1269-4b89-a97a-ff6728a2d458
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Kernel interrupted: c045ec87-fe97-49b3-a8cc-89a25bdfb89e
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Kernel interrupted: c045ec87-fe97-49b3-a8cc-89a25bdfb89e
+[NotebookApp | INFO] Kernel interrupted: c045ec87-fe97-49b3-a8cc-89a25bdfb89e
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Starting buffering for c045ec87-fe97-49b3-a8cc-89a25bdfb89e:890385940175408aa5a733840bccb581
+[NotebookApp | INFO] Kernel restarted: c045ec87-fe97-49b3-a8cc-89a25bdfb89e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c045ec87-fe97-49b3-a8cc-89a25bdfb89e
+[NotebookApp | INFO] Restoring connection for c045ec87-fe97-49b3-a8cc-89a25bdfb89e:890385940175408aa5a733840bccb581
+[NotebookApp | INFO] Replaying 10 buffered messages
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Kernel interrupted: c045ec87-fe97-49b3-a8cc-89a25bdfb89e
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Kernel interrupted: c045ec87-fe97-49b3-a8cc-89a25bdfb89e
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Kernel interrupted: c045ec87-fe97-49b3-a8cc-89a25bdfb89e
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Kernel interrupted: c045ec87-fe97-49b3-a8cc-89a25bdfb89e
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Creating new directory in /02.ActorCritic
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Kernel interrupted: c045ec87-fe97-49b3-a8cc-89a25bdfb89e
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Kernel interrupted: c045ec87-fe97-49b3-a8cc-89a25bdfb89e
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Starting buffering for d81dfdfc-1269-4b89-a97a-ff6728a2d458:a0760b95b25c41e787acb5e5c6c3214f
+[NotebookApp | INFO] Starting buffering for c045ec87-fe97-49b3-a8cc-89a25bdfb89e:890385940175408aa5a733840bccb581
+[NotebookApp | INFO] 302 GET / (127.0.0.1) 0.49ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c045ec87-fe97-49b3-a8cc-89a25bdfb89e
+[NotebookApp | INFO] Discarding 36 buffered messages for c045ec87-fe97-49b3-a8cc-89a25bdfb89e:890385940175408aa5a733840bccb581
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Saving file at /02.ActorCritic/A2C.ipynb
+[NotebookApp | INFO] Starting buffering for c045ec87-fe97-49b3-a8cc-89a25bdfb89e:c176eafb66e7435294518bde8ec8c4e3
+[NotebookApp | INFO] Uploading file to /02.ActorCritic/code/VarianceReduction.ipynb
+[NotebookApp | WARNING] Notebook 02.ActorCritic/code/VarianceReduction.ipynb is not trusted
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: c045ec87-fe97-49b3-a8cc-89a25bdfb89e
+[NotebookApp | INFO] Kernel shutdown: d81dfdfc-1269-4b89-a97a-ff6728a2d458
